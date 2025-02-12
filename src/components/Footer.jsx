@@ -115,7 +115,7 @@ export default function Footer() {
       </footer>
       <section className="bg-[#001754] item-center p-5 flex items-center justify-center h-[148px]">
         <h4 className="text-white text-[36px] font-bold font-spaceGrotesk">
-          © 2023 HireMe. All Rights Reserved
+          Copyright @ HireMe | Developed By SECWEBXPERTS PVT. LTD.
         </h4>
       </section>
     </div>
