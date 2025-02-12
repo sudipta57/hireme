@@ -8,7 +8,8 @@ export default {
       },
       fontFamily: {
         poppins: ["Poppins", "sans-serif"],
-        Roboto: ['"Roboto"', "sans-serif"],
+        spaceGrotesk: ['"Space Grotesk"', "sans-serif"],
+        dmsans: ['"dm-sans"', "sans-serif"],
       },
     },
   },
