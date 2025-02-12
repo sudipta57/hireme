@@ -150,6 +150,16 @@ export default function Navbar() {
             Pricing
           </Link>
           <Link
+            to="/contact-us"
+            className={`hover:text-blue-600 cursor-pointer ${
+              isActive("/contact-us")
+                ? "text-blue-600 font-bold"
+                : "text-gray-700"
+            }`}
+          >
+            Contact
+          </Link>
+          <Link
             to="/login"
             className="hover:text-blue-600 cursor-pointer text-gray-700"
           >
